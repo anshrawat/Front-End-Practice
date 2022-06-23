@@ -1,2 +1,2 @@
-# Web-dev-Mini-Projects
-Practice  Front-end using HTML, CSS, Js.
+# QR-Code-Page
+Practice  Front-end using HTML, CSS.
